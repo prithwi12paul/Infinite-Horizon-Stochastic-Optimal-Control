@@ -36,6 +36,12 @@ Python files
 
 ## How to run the code
 
+Install all required libraries -
+
+```bash
+pip install -r requirements.txt
+```
+
 ## RHCEC
 
 1. Run the [main_CEC.py](Code/main_CEC.py) Python file.
