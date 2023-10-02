@@ -75,7 +75,7 @@ These results highlight the strengths and considerations of both algorithms in t
 
 |RHCEC|GPI|
 |---|---|
-|<img src="./Results/C10.png" height="200">|<img src="./Results/C1_GPI.png" height="200">|
+|<img src="./Results/C10.gif" height="200">|<img src="./Results/C1_GPI.gif" height="200">|
 
 
 ## Conclusion
